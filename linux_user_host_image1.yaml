@@ -5,10 +5,10 @@ Test_Host:
       local_port: 21
     PID: 3344
     PPID: 5566
-    Path: C:\Program Files\Femitter
+    Path: user/local/bin/
     Process Name: femitter
     Process Type: femitter
-    Username: SYSTEM
+    Username: root
   System info:
     Architecture: x64
     OSDistribution: UBUNTU
