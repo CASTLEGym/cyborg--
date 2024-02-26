@@ -4,6 +4,7 @@
 
 - Place the `scenario2_cyborg--` file in the `scenario` directory of Cyborg.
 - Replace the `linux_user_host_image1` file in the `image` folder of Cyborg with the new image file.
+- Use the modified_train.py for training the agent (this updates the action space to the reduced one)
 
 ## Changes in the Training Script
 
